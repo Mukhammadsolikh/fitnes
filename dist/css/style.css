@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+body {
+  font-family: "M PLUS 1p", sans-serif;
+  background-color: black;
+  color: white;
+}
+
+.no-webp .header {
+  background-image: url(../img/pexels-cottonbro-7674492.jpg); }
+
+.header {
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.bla {
+  margin-left: 50px;
+  margin-top: 80px;
+}
+
+.header__item {
+  margin-left: 50px;
+}
+
+.header__phone {
+  margin-top: 80px;
+}
+
+.section__box {
+  width: 280px;
+  height: 60px;
+  left: 0px;
+  top: 8px;
+  display: flex;
+  justify-content: center;
+  background: #F7931E;
+}
+
+.webp .header { background-image: url(../img/pexels-cottonbro-7674492.webp); }
